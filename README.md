@@ -1,3 +1,9 @@
+# Jenkins alpine docker image for arm64/aarch64 (e.g. Odroid C2)
+
+Changed dockerfile for alpine branch. Original readme below
+
+
+
 # Official Jenkins Docker image
 
 The Jenkins Continuous Integration and Delivery server.
